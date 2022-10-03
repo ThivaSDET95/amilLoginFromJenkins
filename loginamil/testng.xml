@@ -1,0 +1,7 @@
+<suite name="login suite">
+	<test name="login test">
+		<classes>
+			<class name="amilLogin.login"></class>
+		</classes>
+	</test>
+</suite>
